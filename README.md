@@ -24,13 +24,12 @@ The package currently includes:
 * NNEF reference intepreter backend
 * Tools for generation of NNEF tensor data
 
-Arhat NNEF Tools are fully compatible with the original Khronos
-NNEF Tools, in particular, the original format converters can be used
-with Arhat NNEF Tools.
+Arhat NNEF Tools are fully compatible and can interoperate with format converters 
+of the original Khronos NNEF Tools.
 
 ## Coming soon
 
-In the near future we plan to publish a turorial on using Arhat NNEF Toools
+In the near future we plan to publish a tutorial on using Arhat NNEF Toools
 together with deep learning models from
 [NNEF Model Zoo](https://github.com/KhronosGroup/NNEF-Tools/tree/master/models#nnef-model-zoo)
 for image classification.
