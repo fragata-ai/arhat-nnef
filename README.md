@@ -15,6 +15,8 @@ Arhat NNEF Tools implementation is based on Khronos
 [NNEF Tools](https://github.com/KhronosGroup/NNEF-Tools).
 We have ported to Go and partly redesigned sections of the original C++ code.
 
+## Contents
+
 The package currently includes:
 
 * NNEF parser
