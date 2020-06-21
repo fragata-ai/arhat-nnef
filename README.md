@@ -1,8 +1,9 @@
 # Arhat NNEF Tools
 
 Arhat NNEF Tools is a package implemented in pure [Go](https://golang.org/)
-containing libraries and command line tools supporting NNEF(tm), 
-[Khronos Neural Network Exchange Format](https://www.khronos.org/nnef).
+containing libraries and command line tools supporting 
+[Khronos Neural Network Exchange Format](https://www.khronos.org/nnef)
+(NNEF™).
 
 NNEF represents a powerful, flexible, and elegant domain-specific language for 
 description of neural networks. Its primary goal is enabling easy transfer of 
