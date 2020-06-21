@@ -20,6 +20,7 @@ We have ported to Go and partly redesigned sections of the original C++ code.
 The package currently includes:
 
 * NNEF parser
+* NNEF runtime core
 * NNEF reference intepreter backend
 * Tools for generation of NNEF tensor data
 
